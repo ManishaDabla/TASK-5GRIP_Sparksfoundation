@@ -12,7 +12,7 @@ I have done the following steps in this EDA Task:
 - Matplotlib 3.4.1
 - Numpy 1.20.0
 - Seaborn 0.11.2
-
+# 
 # Output:
 ![image](https://user-images.githubusercontent.com/105718611/173412221-27ee977e-f8c0-419e-a56a-34c641b7b43c.png)
 ![image](https://user-images.githubusercontent.com/105718611/173412481-bbb62275-4c42-4fb7-a8b3-427f1f48cf38.png)
@@ -40,3 +40,5 @@ Pie chart Plot on Winning percentage in final on the basis of what team chooses 
 16. Top leading run scorer in IPL are Virat kholi, SK Raina, RG Sharma.
 17. Dismissals in IPL was most by Catch out .
 18. The IPL most wicket taken blower is SL Malinga.
+
+# -MANISHA
