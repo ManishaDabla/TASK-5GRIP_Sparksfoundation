@@ -8,9 +8,9 @@
 ![image](https://user-images.githubusercontent.com/105718611/173413416-68333a5d-8bc3-4fcf-8e44-a8aab57eb066.png)
 Pie chart Plot on Winning percentage in final on the basis of what team chooses Bat/Field
 # CONCULSION Of Above Exploratory Data Analysis
-TEAM NAMES: Sunrisers Hyderabad, Royal Challengers Bangalore, Mumbai Indians, Rising Pune Supergiant, Gujarat Lions, Kolkata Knight Riders, Kings XI Punjab, Delhi Daredevils, Chennai Super Kings, Rajasthan Royals, Deccan Chargers, Kochi Tuskers Kerala, Pune Warriors, Rising Pune Supergiants, Delhi Capitals
-The highest number of match won by Mumbai Indians i.e 4 match out of 12 matches.
-The highest number of match played in IPL season was 2013,2014,2015.
+1. TEAM NAMES: Sunrisers Hyderabad, Royal Challengers Bangalore, Mumbai Indians, Rising Pune Supergiant, Gujarat Lions, Kolkata Knight Riders, Kings XI Punjab, Delhi Daredevils, Chennai Super Kings, Rajasthan Royals, Deccan Chargers, Kochi Tuskers Kerala, Pune Warriors, Rising Pune Supergiants, Delhi Capitals
+2. The highest number of match won by Mumbai Indians i.e 4 match out of 12 matches.
+3. The highest number of match played in IPL season was 2013,2014,2015.
 Teams which Bowl first has higher chances of winning then the team which bat first.
 After winning toss more teams decide to do fielding first.
 In finals teams which decide to do fielding first win the matches more then the team which bat first.
