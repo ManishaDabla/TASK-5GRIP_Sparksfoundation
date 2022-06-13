@@ -1,5 +1,19 @@
 # TASK-5GRIP_Sparksfoundation
 # Exploratory Data Analysis : Sports (Indian Premier League)
+# Introduction
+This Python script shows and saves some charts to find out the most successful teams, players, and factors contributing win and loss of the team in the IPL seasons till 2019.
+I have done the following steps in this EDA Task:
+1. Reading and Analyzing the DataSet provided.
+2. Plot different graphs
+3. Exploring and Visualizing Data
+
+# Prereqs (at least)
+- Python 3.7.9
+- Matplotlib 3.4.1
+- Numpy 1.20.0
+- Seaborn 0.11.2
+
+# Output:
 ![image](https://user-images.githubusercontent.com/105718611/173412221-27ee977e-f8c0-419e-a56a-34c641b7b43c.png)
 ![image](https://user-images.githubusercontent.com/105718611/173412481-bbb62275-4c42-4fb7-a8b3-427f1f48cf38.png)
 ![image](https://user-images.githubusercontent.com/105718611/173412740-94ff613d-031c-4264-b2f4-72f3e9f35736.png)
