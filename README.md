@@ -5,3 +5,5 @@
 ![image](https://user-images.githubusercontent.com/105718611/173412740-94ff613d-031c-4264-b2f4-72f3e9f35736.png)
 ![image](https://user-images.githubusercontent.com/105718611/173413072-e6b5a63e-57de-4393-a745-45c56d54e8a0.png)
 ![image](https://user-images.githubusercontent.com/105718611/173413124-71e76529-8bef-4ebf-8a3e-2dd7c721f787.png)
+![image](https://user-images.githubusercontent.com/105718611/173413416-68333a5d-8bc3-4fcf-8e44-a8aab57eb066.png)
+Pie chart Plot on Winning percentage in final on the basis of what team chooses Bat/Field
