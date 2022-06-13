@@ -21,7 +21,17 @@ I have done the following steps in this EDA Task:
 ![image](https://user-images.githubusercontent.com/105718611/173413072-e6b5a63e-57de-4393-a745-45c56d54e8a0.png)
 ![image](https://user-images.githubusercontent.com/105718611/173413124-71e76529-8bef-4ebf-8a3e-2dd7c721f787.png)
 ![image](https://user-images.githubusercontent.com/105718611/173413416-68333a5d-8bc3-4fcf-8e44-a8aab57eb066.png)
-Pie chart Plot on Winning percentage in final on the basis of what team chooses Bat/Field
+Pie chart Plot on Winning percentage in final on the basis of what team chooses Bat/Field:
+![image](https://user-images.githubusercontent.com/105718611/173422700-82000982-9548-463f-8442-4438ce6495eb.png)
+Pie chart Plot on Winning percentage in final on the basis toss result:
+![image](https://user-images.githubusercontent.com/105718611/173422881-14ec16ba-a439-444d-aac0-a75ee0e881e4.png)
+![image](https://user-images.githubusercontent.com/105718611/173422914-6c06a46e-38f7-47e1-b421-54e2040da1ae.png)
+![image](https://user-images.githubusercontent.com/105718611/173422953-b6d52003-687d-4b83-876c-ea3050bcab60.png)
+![image](https://user-images.githubusercontent.com/105718611/173422985-0ece053a-76da-420c-97bc-3629d69db566.png)
+![image](https://user-images.githubusercontent.com/105718611/173423009-a5d34751-f597-4ff6-8c4b-eaa4456daa62.png)
+![image](https://user-images.githubusercontent.com/105718611/173423035-41ae2d20-53ac-45fc-b86f-4477e08f21af.png)
+![image](https://user-images.githubusercontent.com/105718611/173423094-e2d530d3-3b1d-4732-92cf-11d9e7fbcd0c.png)
+
 # CONCULSION 
 1. TEAM NAMES: Sunrisers Hyderabad, Royal Challengers Bangalore, Mumbai Indians, Rising Pune Supergiant, Gujarat Lions, Kolkata Knight Riders, Kings XI Punjab, Delhi Daredevils, Chennai Super Kings, Rajasthan Royals, Deccan Chargers, Kochi Tuskers Kerala, Pune Warriors, Rising Pune Supergiants, Delhi Capitals
 2. The highest number of match won by Mumbai Indians i.e 4 match out of 12 matches.
